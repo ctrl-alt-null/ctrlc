@@ -1,6 +1,6 @@
 {
   "name": "ctrlcv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Copies a simple JS object using `JSON.stringify` and `JSON.parse`.",
   "main": "index.js",
   "author": "robin@pettersen.dev",
