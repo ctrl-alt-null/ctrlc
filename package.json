@@ -1,6 +1,6 @@
 {
   "name": "ctrlcv",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Copies a simple JS object using `JSON.stringify` and `JSON.parse`.",
   "main": "index.js",
   "author": "robin@pettersen.dev",
@@ -8,5 +8,11 @@
   "repository": {
     "type" : "git",
     "url" : "https://github.com/ctrl-alt-null/ctrlcv"
-  }
+  },
+  "keywords": [
+    "clone",
+    "clone deep",
+    "copy",
+    "immutable"
+  ]
 }
